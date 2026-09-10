@@ -21,11 +21,11 @@ Notes: if you find yourself unable to follow the general guide, refer to some of
 
 4. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
 
-For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out. 
+For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
 
 ### What do I do if I cannot get the setup working in time?
 
-If you have trouble with the _General Setup_, you can follow the Google Colab setup [guide](https://docs.google.com/document/d/14ely7Xi_r1AFLAsMrKuHHcwqgAMnWV4QrbnK_uTJzYc/edit?usp=sharing) and use Colab to complete the tutorials.
+If you have trouuble with the _General Setup_, you can follow the Google Colab setup [guide](https://docs.google.com/document/d/14ely7Xi_r1AFLAsMrKuHHcwqgAMnWV4QrbnK_uTJzYc/edit?usp=sharing) and use Colab to complete the tutorials.
 
 If you have trouble with the _Git Setup_, you can upload your files to Git by going to your GitHub repository and do `Add file` -> `Upload files`.
 
